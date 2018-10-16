@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'gollum'
+gem 'gollum', '4.1.4'
 gem 'unicorn'
 gem 'commonmarker'
